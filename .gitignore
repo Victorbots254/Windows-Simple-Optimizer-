@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+
+# PyInstaller / Build Artifacts
+build/
+dist/
+*.spec
+
+# Keep release zip for distribution if desired, but exclude large temp exe from source commit if needed:
+# Note: we can keep release/ directory tracked so users cloning or downloading can access the zip directly!

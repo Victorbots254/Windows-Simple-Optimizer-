@@ -1,0 +1,41 @@
+========================================================================
+    WRITENIX TECH SOLUTIONS - WINDOWS DISK OPTIMIZER & CLEANER
+========================================================================
+
+Thank you for downloading Writenix Disk Optimizer!
+A lightweight, modern, zero-install utility to analyze and safely clean 
+up gigabytes of hidden developer caches, temporary files, and system waste.
+
+------------------------------------------------------------------------
+HOW TO RUN (Zero Installation Required):
+------------------------------------------------------------------------
+1. Extract (unzip) all files from this folder.
+2. Double-click on:
+      WritenixDiskOptimizer.exe
+   (Or right-click and choose "Run as administrator" to enable hibernation toggle).
+3. The modern dashboard will open automatically:
+   - Click "✔ Select Recommended (Safe)"
+   - Click "🚀 Clean Selected Items"
+   - Watch gigabytes of free disk space return instantly!
+
+------------------------------------------------------------------------
+WHAT IT CLEANS:
+------------------------------------------------------------------------
+- PHP Composer cache archives
+- Node.js / NPM cache
+- Playwright automated browser binaries
+- Windows and User temporary files (%TEMP%)
+- Google Chrome browser web cache
+- GoLogin updater files
+- Windows Update downloaded installers
+- Windows Hibernation snapshot (hiberfil.sys, reclaims ~4 GB)
+
+------------------------------------------------------------------------
+SAFETY GUARANTEE:
+------------------------------------------------------------------------
+This optimizer only cleans temporary caches and build artifacts. 
+It NEVER touches your personal files, documents, downloads, or databases.
+
+Developed by Writenix Tech Solutions
+GitHub: https://github.com/Victorbots254/Windows-Simple-Optimizer-
+========================================================================
